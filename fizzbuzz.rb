@@ -10,3 +10,4 @@ def fizzbuzz(int)
   else int % 5 and 3 == 0
     return 'FizzBuzz'
 end
+end
