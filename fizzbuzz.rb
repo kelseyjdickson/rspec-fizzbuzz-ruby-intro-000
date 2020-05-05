@@ -4,7 +4,7 @@
 #require_relative '../fizzbuzz_spec.rb'
 def fizzbuzz(int)
   if int % 3 == 0
-    return "Fizz"
+    return 'Fizz'
   elsif int % 5 == 0
     return 'Buzz'
   else int % 5 and 3 == 0
